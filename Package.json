@@ -1,13 +1,21 @@
-{
-  "name": "BotTokenManager",
-  "version": "1.0.0",
-  "description": "Bot Telegram untuk mengelola token dari GitHub",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "axios": "^1.4.0",
-    "node-telegram-bot-api": "^0.61.0"
-  }
+   "name": "Neverlus Crash",
+    "version": "1.0",
+    "description": "@Kallxzken",
+    "main": "packege.json.js",
+    "scripts": {
+        "start": "node HdsXplugin.js"
+    },
+    "dependencies": {
+   "@whiskeysockets/baileys": "github:VampirePrivate/VampBaileys",
+        "axios": "^1.6.0",
+        "body-parser": "^1.20.3",
+         "fs": "latest",
+        "chalk": "^4.1.2",
+        "pino": "^9.5.0",
+        "@octokit/rest": "latest",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3",
+        "crypto": "latest",
+        "moment-timezone": "latest"
+    }
 }
